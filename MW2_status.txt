@@ -1,5 +1,5 @@
-MW2 UA WOOFER,online
-SPOOFER BLOCKER,online
+MW2 UA WOOFER,offline
+SPOOFER BLOCKER,offline
 MW2 VIP CHAIR,offline
 MW2 SYNDICATE,offline
 MW2 AIO,online
