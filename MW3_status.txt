@@ -1,4 +1,5 @@
 MW3 UA + WOOFER,online
+MW3 UA + WOOFER V2,online
 MW3 CHAIR + WOOFER,online
 MW3 IRIS CHAIR + BLOCKER,online
 MW3 AIO + BLOCKER,online
