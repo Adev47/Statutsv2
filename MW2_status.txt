@@ -4,4 +4,3 @@ MW2 VIP CHAIR,online
 MW2 SYNDICATE,online
 MW2 AIO,online
 MW2 FORCE SAVE,online
-VPN,online
