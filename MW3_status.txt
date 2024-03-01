@@ -1,8 +1,8 @@
-MW3 UA + WOOFER,online
-MW3 UA + WOOFER V2,online
-MW3 CHAIR + WOOFER,online
-IRIS MW3 CHAIR + WOOFER,online
-MW3 AIO (spoofer needed),online
-SPOOFER BLOCKER,online
-SPOOFER BLOCKER v2,online
+MW3 UA + WOOFER,updating
+MW3 UA + WOOFER V2,updating
+MW3 CHAIR + WOOFER,updating
+IRIS MW3 CHAIR + WOOFER,updating
+MW3 AIO (spoofer needed),updating
+SPOOFER BLOCKER,updating
+SPOOFER BLOCKER v2,updating
 VPN,online
