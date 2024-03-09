@@ -5,5 +5,5 @@ IRIS MW3 CHAIR + WOOFER,online
 MW3 AIO,online
 MW3 AIO V2,online
 SPOOFER BLOCKER,online
-SPOOFER BLOCKER v2,online
+SPOOFER BLOCKER V2,online
 VPN,online
