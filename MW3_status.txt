@@ -6,4 +6,4 @@ IRIS MW3 AIO V2,online
 IRIS MW3 PRIVACY PROTECTOR,online
 SPOOFER BLOCKER,online
 SPOOFER BLOCKER V2,online
-VPN,offline
+VPN,updating
